@@ -9938,8 +9938,8 @@ h3 {
 }
 
 .gitLink{
-  color: DarkBlue;
-  text-decoration: underline;
+  color: DarkBlue !important;
+  text-decoration: underline !important;
 }
 
 .scroll-to-top {
